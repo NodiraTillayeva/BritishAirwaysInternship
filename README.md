@@ -6,3 +6,5 @@
 
 #### Output: 
 ![Wordcloud](https://github.com/NodiraTillayeva/BritishAirwaysInternship/blob/main/Results.PNG)
+
+## Task 2
