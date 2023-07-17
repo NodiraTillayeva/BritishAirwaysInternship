@@ -13,4 +13,4 @@
 ![Wordcloud](https://github.com/NodiraTillayeva/BritishAirwaysInternship/blob/main/Task2/Input.PNG)
 
 #### Output: 
-![Wordcloud](https://github.com/NodiraTillayeva/BritishAirwaysInternship/blob/main/Task2/Results.PNG)
+![Wordcloud](https://github.com/NodiraTillayeva/BritishAirwaysInternship/blob/main/Task2/Output.png)
