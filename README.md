@@ -20,3 +20,7 @@ Build a predictive model to understand factors that influence buying behaviour
 
 #### Output: 
 ![Wordcloud](https://github.com/NodiraTillayeva/BritishAirwaysInternship/blob/main/Task2/Output.png)
+
+# Certificate of Completion:
+
+![image](https://github.com/NodiraTillayeva/BritishAirwaysInternship/assets/74857220/8b3bd9e4-c2bd-4abc-a952-3ad0bed08602)
